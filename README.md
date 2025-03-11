@@ -37,3 +37,4 @@ Two-wheelers dominate Indian transportation due to their affordability and conve
 Steady Growth (2015-2019): Gradual increase in EV sales but remained relatively low.
 Sharp Surge (2020 Onward): Significant rise in sales due to better policies, infrastructure, and adoption.
 Peak in Recent Years (2023-2024): Highest sales recorded, reflecting rapid market expansion and increased EV adoption.
+
