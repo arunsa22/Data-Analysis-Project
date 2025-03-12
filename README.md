@@ -17,7 +17,7 @@ Source: Kaggle - [India EV Market Data](https://www.kaggle.com/datasets/srinreal
 ### Technologies and Tools Used:
 * **Python :** for data processing and analysis.
 * **Pandas :** for data manipulation 
-* **Matplotlib :** and Seaborn for data visualization.
+* **Matplotlib  :** and Seaborn for data visualization.
 * **Jupyter Notebook :** for interactive analysis.
 
 
